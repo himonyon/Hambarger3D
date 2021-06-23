@@ -21,6 +21,19 @@ enum FOODS
     PICKLES,
     AVOCADO,
     MAX,
+    VANS = 98,
+    PATTY,
+}
+
+enum SAUCES
+{
+    KETCHUP = 100,
+    MUSTARD,
+    MAYONNAISE,
+    TARTAR,
+    CUTLETSAUCE,
+    AURORA,
+    MAX,
 }
 
 public class GameManager : MonoBehaviour
